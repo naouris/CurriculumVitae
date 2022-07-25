@@ -1,24 +1,38 @@
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
 .navbar {
     margin-bottom: 0;
     background-color: #2d2d30;
     border: 0;
-    font-size: 11px !important;
+    font-size: 13px !important;
     letter-spacing: 4px;
     opacity: 0.9;
-  }
+    
 
-  .navbar li a, .navbar .navbar-brand { 
-    color: #d5d5d5 !important;
+  }
+  #block-info{
+    margin-top: 60px;
+  }
+  section {
+    margin-top: 70px;
+   
+}
+   li, .nav .navbar-brand .navbar { 
+    color: #d5d5d5 ;
+    margin-top: 50px;
   }
   
   .navbar-default .navbar-toggle {
     border-color: transparent;
   }
-  fieldset{  box-shadow: 0px 2px 5px #1c1a19;}
-
-  section{
-    margin-top: 150px;
+  fieldset{  
+    box-shadow: 0px 2px 5px #1c1a19;
   }
+
+  
   .img-profil{
     border-radius: 150px;
   }
@@ -33,6 +47,31 @@
   
   transition: width 2s;
   }
-  
+  .bg-1{
+    background-color: #37373a;
+
+  }
+  .bg-2{
+    background-image: url(img/convention-stage.jpg);
     
+  }
+  #block-stage{
+    box-shadow: 0px 2px 5px #1c1a19;
+    margin-top: 150px;
+    background-color: #eaeaf1;
+
+    
+    
+    
+  }
   
+  
+  .thumbnail {
+    margin-left: 110px;
+  }
+    
+  #titre-Container-diplome{
+    color: #d5d5d5;
+  }
+
+
