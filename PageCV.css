@@ -20,6 +20,9 @@ html {
     margin-top: 70px;
    
 }
+
+  
+
    li, .nav .navbar-brand .navbar { 
     color: #d5d5d5 ;
     margin-top: 50px;
@@ -30,6 +33,7 @@ html {
   }
   fieldset{  
     box-shadow: 0px 2px 5px #1c1a19;
+    background-color: white;
   }
 
   
@@ -58,7 +62,7 @@ html {
   #block-stage{
     box-shadow: 0px 2px 5px #1c1a19;
     margin-top: 150px;
-    background-color: #eaeaf1;
+    background-color:rgb(233, 231, 230);
 
     
     
