@@ -1,6 +1,7 @@
-let d =window.document.querySelector(".btn")
-console.log(d)
+let link=document.querySelector("a");
+console.log(link);
 
-function downloadFile(data ,){
+//function downloadFile(url ,nameFile){
+    
 
-}
+//
