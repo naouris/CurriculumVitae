@@ -1,7 +1,5 @@
-let link=document.querySelector("a");
-console.log(link);
-
-//function downloadFile(url ,nameFile){
-    
-
-//
+$('.btn').click(function(){
+    html2canvas(document.querySelector('')).then((canvas)=>{
+        let base= canvas.toDataURL()
+    })
+})
